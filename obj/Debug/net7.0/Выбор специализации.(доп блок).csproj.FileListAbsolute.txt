@@ -1,0 +1,15 @@
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\bin\Debug\net7.0\Выбор специализации.(доп блок).exe
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\bin\Debug\net7.0\Выбор специализации.(доп блок).deps.json
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\bin\Debug\net7.0\Выбор специализации.(доп блок).runtimeconfig.json
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\bin\Debug\net7.0\Выбор специализации.(доп блок).dll
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\bin\Debug\net7.0\Выбор специализации.(доп блок).pdb
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).csproj.AssemblyReference.cache
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).AssemblyInfoInputs.cache
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).AssemblyInfo.cs
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).dll
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\refint\Выбор специализации.(доп блок).dll
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).pdb
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\Выбор специализации.(доп блок).genruntimeconfig.cache
+C:\Users\Мария\Desktop\GB обучение\Выбор специализации.(доп блок)\obj\Debug\net7.0\ref\Выбор специализации.(доп блок).dll

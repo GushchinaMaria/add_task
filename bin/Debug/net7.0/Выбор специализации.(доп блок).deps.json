@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Выбор специализации.(доп блок)/1.0.0": {
+        "runtime": {
+          "Выбор специализации.(доп блок).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Выбор специализации.(доп блок)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
